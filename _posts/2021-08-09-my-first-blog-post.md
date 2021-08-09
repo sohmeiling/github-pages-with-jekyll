@@ -1,6 +1,6 @@
 ---
 title: "A Practice of GitHub"
-date: YYYY-MM-DD
+date: 2021-08-09
 ---
 
 # Table of content
