@@ -1,3 +1,8 @@
+---
+title: "My-First-GitHub-Page"
+date: YYYY-MM--DD
+---
+
 # Table of content
 - cover i
 - cover 2
