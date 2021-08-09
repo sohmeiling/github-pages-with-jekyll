@@ -1,6 +1,6 @@
 ---
-title: "A practice of Github"
-date: YYYY-MM--DD
+title: "A Practice of GitHub"
+date: YYYY-MM-DD
 ---
 
 # Table of content
