@@ -1,5 +1,5 @@
 ---
-title: "My-First-GitHub-Page"
+title: "A practice of Github"
 date: YYYY-MM--DD
 ---
 
